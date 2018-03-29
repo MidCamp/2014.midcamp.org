@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.midcamp.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MidCamp - Lodging</title>
+ <link>http://2014.midcamp.org/venue-type/lodging</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Holiday Inn and Suites Chicago Downtown</title>
+ <link>http://2014.midcamp.org/venue/holiday-inn-and-suites-chicago-downtown</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;a href=&quot;http://www.hidowntown.com&quot;&gt;http://www.hidowntown.com&lt;/a&gt;&lt;br /&gt;
+(312) 324-7400&lt;br /&gt;
+$122 avg/night &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-type field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/venue-type/lodging&quot;&gt;Lodging&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-address field-type-addressfield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Address:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;street-block&quot;&gt;&lt;div class=&quot;thoroughfare&quot; x-autocompletetype=&quot;address-line1&quot; autocomplete=&quot;address-line1&quot;&gt;506 W Harrison St&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;addressfield-container-inline locality-block country-US&quot;&gt;&lt;span class=&quot;locality&quot; x-autocompletetype=&quot;locality&quot; autocomplete=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;state&quot; x-autocompletetype=&quot;region&quot; autocomplete=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;span class=&quot;postal-code&quot; x-autocompletetype=&quot;postal-code&quot; autocomplete=&quot;postal-code&quot;&gt;60607&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-geo-data field-type-geofield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Geo Data:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;POINT (-87.6400052 41.8746003)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Mar 2014 21:28:41 +0000</pubDate>
+ <dc:creator>BLadwin</dc:creator>
+ <guid isPermaLink="false">94 at http://2014.midcamp.org</guid>
+</item>
+<item>
+ <title>Renaissance Blackstone Chicago Hotel</title>
+ <link>http://2014.midcamp.org/venue/renaissance-blackstone-chicago-hotel</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;a href=&quot;http://www.blackstonerenaissance.com&quot;&gt;http://www.blackstonerenaissance.com&lt;/a&gt;&lt;br /&gt;
+(312) 447-0955&lt;br /&gt;
+$143 avg/night &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-type field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/venue-type/lodging&quot;&gt;Lodging&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-address field-type-addressfield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Address:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;street-block&quot;&gt;&lt;div class=&quot;thoroughfare&quot; x-autocompletetype=&quot;address-line1&quot; autocomplete=&quot;address-line1&quot;&gt;636 S Michigan Ave&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;addressfield-container-inline locality-block country-US&quot;&gt;&lt;span class=&quot;locality&quot; x-autocompletetype=&quot;locality&quot; autocomplete=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;state&quot; x-autocompletetype=&quot;region&quot; autocomplete=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;span class=&quot;postal-code&quot; x-autocompletetype=&quot;postal-code&quot; autocomplete=&quot;postal-code&quot;&gt;60605&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-geo-data field-type-geofield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Geo Data:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;POINT (-87.62479 41.873368)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Mar 2014 21:27:41 +0000</pubDate>
+ <dc:creator>BLadwin</dc:creator>
+ <guid isPermaLink="false">93 at http://2014.midcamp.org</guid>
+</item>
+<item>
+ <title>The Congress Plaza Hotel &amp; Convention Center</title>
+ <link>http://2014.midcamp.org/venue/congress-plaza-hotel-convention-center</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;a href=&quot;http://www.congressplazahotel.com&quot;&gt;http://www.congressplazahotel.com&lt;/a&gt;&lt;br /&gt;
+(312) 427-3800&lt;br /&gt;
+$125 avg/night &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-type field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/venue-type/lodging&quot;&gt;Lodging&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-address field-type-addressfield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Address:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;street-block&quot;&gt;&lt;div class=&quot;thoroughfare&quot; x-autocompletetype=&quot;address-line1&quot; autocomplete=&quot;address-line1&quot;&gt;520 S Michigan Ave&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;addressfield-container-inline locality-block country-US&quot;&gt;&lt;span class=&quot;locality&quot; x-autocompletetype=&quot;locality&quot; autocomplete=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;state&quot; x-autocompletetype=&quot;region&quot; autocomplete=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;span class=&quot;postal-code&quot; x-autocompletetype=&quot;postal-code&quot; autocomplete=&quot;postal-code&quot;&gt;60605&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-geo-data field-type-geofield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Geo Data:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;POINT (-87.624809 41.875058)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Mar 2014 21:25:01 +0000</pubDate>
+ <dc:creator>BLadwin</dc:creator>
+ <guid isPermaLink="false">92 at http://2014.midcamp.org</guid>
+</item>
+<item>
+ <title>HOTEL BLAKE CHICAGO</title>
+ <link>http://2014.midcamp.org/venue/hotel-blake-chicago</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;a href=&quot;http://www.hotelblake.com&quot;&gt;http://www.hotelblake.com&lt;/a&gt;&lt;br /&gt;
+(312) 986-1234&lt;br /&gt;
+$131 avg/night &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-type field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/venue-type/lodging&quot;&gt;Lodging&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-address field-type-addressfield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Address:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;street-block&quot;&gt;&lt;div class=&quot;thoroughfare&quot; x-autocompletetype=&quot;address-line1&quot; autocomplete=&quot;address-line1&quot;&gt;500 S Dearborn St&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;addressfield-container-inline locality-block country-US&quot;&gt;&lt;span class=&quot;locality&quot; x-autocompletetype=&quot;locality&quot; autocomplete=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;state&quot; x-autocompletetype=&quot;region&quot; autocomplete=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;span class=&quot;postal-code&quot; x-autocompletetype=&quot;postal-code&quot; autocomplete=&quot;postal-code&quot;&gt;60605&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-geo-data field-type-geofield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Geo Data:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;POINT (-87.629506 41.875586)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Mar 2014 21:21:28 +0000</pubDate>
+ <dc:creator>BLadwin</dc:creator>
+ <guid isPermaLink="false">91 at http://2014.midcamp.org</guid>
+</item>
+<item>
+ <title>Travelodge Hotel Downtown Chicago</title>
+ <link>http://2014.midcamp.org/venue/travelodge-hotel-downtown-chicago</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;a href=&quot;http://www.travelodge.com&quot;&gt;http://www.travelodge.com&lt;/a&gt;&lt;br /&gt;
+(312) 427-8000&lt;br /&gt;
+$114 avg/night &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-type field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/venue-type/lodging&quot;&gt;Lodging&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-address field-type-addressfield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Address:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;street-block&quot;&gt;&lt;div class=&quot;thoroughfare&quot; x-autocompletetype=&quot;address-line1&quot; autocomplete=&quot;address-line1&quot;&gt;65 E Harrison St&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;addressfield-container-inline locality-block country-US&quot;&gt;&lt;span class=&quot;locality&quot; x-autocompletetype=&quot;locality&quot; autocomplete=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;state&quot; x-autocompletetype=&quot;region&quot; autocomplete=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;span class=&quot;postal-code&quot; x-autocompletetype=&quot;postal-code&quot; autocomplete=&quot;postal-code&quot;&gt;60605&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-geo-data field-type-geofield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Geo Data:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;POINT (-87.6254827 41.8742325)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Mar 2014 21:20:41 +0000</pubDate>
+ <dc:creator>BLadwin</dc:creator>
+ <guid isPermaLink="false">90 at http://2014.midcamp.org</guid>
+</item>
+<item>
+ <title>Hostelling International - Chicago</title>
+ <link>http://2014.midcamp.org/venue/hostelling-international-chicago</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; &lt;a href=&quot;http://www.hiusa.org&quot;&gt;http://www.hiusa.org&lt;/a&gt;&lt;br /&gt;
+(312) 360-0300&lt;br /&gt;
+$37 avg/night &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-type field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/venue-type/lodging&quot;&gt;Lodging&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-address field-type-addressfield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Address:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;street-block&quot;&gt;&lt;div class=&quot;thoroughfare&quot; x-autocompletetype=&quot;address-line1&quot; autocomplete=&quot;address-line1&quot;&gt;24 E Congress Pkwy&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;addressfield-container-inline locality-block country-US&quot;&gt;&lt;span class=&quot;locality&quot; x-autocompletetype=&quot;locality&quot; autocomplete=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;state&quot; x-autocompletetype=&quot;region&quot; autocomplete=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;span class=&quot;postal-code&quot; x-autocompletetype=&quot;postal-code&quot; autocomplete=&quot;postal-code&quot;&gt;60605&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-geo-data field-type-geofield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Geo Data:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;POINT (-87.6265016 41.8758023)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Mar 2014 21:18:27 +0000</pubDate>
+ <dc:creator>BLadwin</dc:creator>
+ <guid isPermaLink="false">89 at http://2014.midcamp.org</guid>
+</item>
+</channel>
+</rss>

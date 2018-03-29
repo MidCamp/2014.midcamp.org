@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="http://2014.midcamp.org"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>MidCamp - Main Event Hall</title>
+ <link>http://2014.midcamp.org/venue-type/main-event-hall</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>University Center</title>
+ <link>http://2014.midcamp.org/venue/university-center</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Image:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img src=&quot;http://2014.midcamp.org/sites/default/files/images/blurb/university-center_3192.jpg&quot; width=&quot;650&quot; height=&quot;574&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt; University Center - Chicago is located at 525 S State St, Chicago, IL 60605, between Congress Parkway and Harrison Street. University Center does not have dedicated parking. However, there are a number of parking garages and lots surrounding the building. &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-type field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Type:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/venue-type/main-event-hall&quot;&gt;Main Event Hall&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-address field-type-addressfield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Address:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;div class=&quot;street-block&quot;&gt;&lt;div class=&quot;thoroughfare&quot; x-autocompletetype=&quot;address-line1&quot; autocomplete=&quot;address-line1&quot;&gt;525 S State St.&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;addressfield-container-inline locality-block country-US&quot;&gt;&lt;span class=&quot;locality&quot; x-autocompletetype=&quot;locality&quot; autocomplete=&quot;locality&quot;&gt;Chicago&lt;/span&gt;, &lt;span class=&quot;state&quot; x-autocompletetype=&quot;region&quot; autocomplete=&quot;region&quot;&gt;IL&lt;/span&gt; &lt;span class=&quot;postal-code&quot; x-autocompletetype=&quot;postal-code&quot; autocomplete=&quot;postal-code&quot;&gt;60605&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-venue-geo-data field-type-geofield field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Venue Geo Data:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;POINT (-87.6269119 41.8750154)&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sun, 02 Mar 2014 20:15:36 +0000</pubDate>
+ <dc:creator>BLadwin</dc:creator>
+ <guid isPermaLink="false">72 at http://2014.midcamp.org</guid>
+</item>
+</channel>
+</rss>
